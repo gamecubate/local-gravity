@@ -1,4 +1,4 @@
-# Local gravity plugin for impacJS #
+# Local gravity plugin for impactJS #
 
 * Adds gravitational pull capabilities to entities of your choice
 * Demo and usage info on http://gamecubate.tumblr.com/post/26844531008/local-gravity-plugin
